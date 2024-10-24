@@ -1,1 +1,1 @@
-we: gunicorn monitoringinnovation.wsgi
+web: gunicorn monitoringinnovation.wsgi
