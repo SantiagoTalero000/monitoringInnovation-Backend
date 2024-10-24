@@ -139,5 +139,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ORIGIN_WHITELIST = [
     'https://santiagotalero000.github.io',
-    'https://fr11l22d-5173.use2.devtunnels.ms'
+    'https://fr11l22d-5173.use2.devtunnels.ms',
+    'https://fr11l22d-4173.use2.devtunnels.ms'
 ]
